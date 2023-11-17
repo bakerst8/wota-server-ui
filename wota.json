@@ -21,7 +21,8 @@
                     "text1": "\"One might say the Ark is the sum total of our knowledge of the Dinosaurs, the great library of the known, but the practice of science happens at the border between the known and the unknown. Standing on the shoulders of giants, we peer into the darkness with eyes opened not in fear but in wonder.\"\n\n<TextStyle.Violet>JOIN OUR DISCORD for server updates, rates, event info and more!</>\n\n<RichColor Color=\"0.25,0,0.75,1\">WONDERS OF THE ARKVERSE is a Casual PVE server of cosmically awesome players that value a fun, laid-back community and Ark experience.</>",
                     "imageurl": "https://i.imgur.com/1IV6HED.png"
                 }
-            },
+            }
+        ],
         "links": [
             {
                 "link1": {
@@ -36,3 +37,5 @@
                 }
             }
         ]
+    }
+}
