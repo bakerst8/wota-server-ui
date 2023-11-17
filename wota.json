@@ -16,7 +16,7 @@
             {
                 "tab1": {
                     "layout": 1,
-                    "buttontext": "<RichColor Color=\"1,1,1,1\">Welcome</>",
+                    "buttontext": "<RichColor Color=\"0.886,0.812,1,1\">Welcome</>",
                     "title1": "<RichColor Color=\"194,194,255,1\">Welcome to</> <RichColor Color=\"201,176,249,1\">Wonders of</> <RichColor Color=\"255,194,241,1\">the Arkverse!</>",
                     "text1": "\"One might say the Ark is the sum total of our knowledge of the Dinosaurs, the great library of the known, but the practice of science happens at the border between the known and the unknown. Standing on the shoulders of giants, we peer into the darkness with eyes opened not in fear but in wonder.\"\n\n",
                     "imageurl": "https://i.imgur.com/1IV6HED.png"
