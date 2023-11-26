@@ -21,6 +21,15 @@
                     "text1": "\"One might say the Ark is the sum total of our knowledge of the Dinosaurs, the great library of the known, but the practice of science happens at the border between the known and the unknown. Standing on the shoulders of giants, we peer into the darkness with eyes opened not in fear but in wonder.\"\n\n<RichColor Color=\"0.25,0,0.75,1\">WONDERS OF THE ARKVERSE is a Casual PVE server of cosmically awesome players that value a fun, laid-back community and Ark experience.</>\n\n<TextStyle.Violet>JOIN OUR DISCORD for server updates, rates, event info and more!</>\n\n<RichColor Color=\"0.1,0.8,1,1\">RULES:</>\n<RichColor Color=\"0.5,0.9,1,1\">Don't be a jerk.</> No harassment, bullying, griefing, witch hunts, offensive survivor/tribe/discord names, etc. If you have to ask it's probably a bad idea. Be respectful of all players, mods and admins. If you have an issue with another player, please bring it to an admin instead of handling it yourself. No stealing, kiting, or otherwise crappy non-PVE behavior.\n\n<RichColor Color=\"0.5,0.9,1,1\">Don't be greedy.</> Clean up after yourself around the map INCLUDING TRAPS. 1-3 Mini VERY SMALL outposts are allowed but only one large base per person. Don't build directly next to other players unless you have direct permission from them. Do NOT block access to any areas with valuable resources/beaver dams/artifacts/explorer notes/anything related to progression. And do not cultivate an excessive amount of dinos.",
                     "imageurl": "https://i.imgur.com/1IV6HED.png"
                 }
+            },
+            {
+        "tab2": {
+          "layout": 1,
+          "buttontext": "<RichColor Color=\"0,0.80,0.10,1\">Shop and Missions README</>",
+          "title1": "How to use Kavan's Shops and Missions",
+          "text1": "<TextStyle.Violet>Functions</>\n\nShift + N to hide mission info/status.\nTo access shop and mission screens, go to your INVENTORY. In the BOTTOM LEFT, there are buttons.\nTo turn in missions, use the TOP button, an !.",
+          "imageurl": "https://i.imgur.com/1IV6HED.png"
+                }
             }
         ],
         "links": [
