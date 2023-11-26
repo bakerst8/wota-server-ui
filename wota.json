@@ -27,7 +27,7 @@
           "layout": 1,
           "buttontext": "<RichColor Color=\"0,0.80,0.10,1\">Shop and Missions README</>",
           "title1": "How to use Kavan's Shops and Missions",
-          "text1": "<TextStyle.Violet>Functions</>\n\nShift + N to hide mission info/status.\nTo access shop and mission screens, go to your INVENTORY. In the BOTTOM LEFT, there are buttons.\nTo turn in missions, use the TOP button, an !.",
+          "text1": "<TextStyle.Violet>Functions</>\n\nShift + N to hide mission info/status.\nTo access shop and mission screens, go to your INVENTORY. In the BOTTOM LEFT, there are buttons.\nTo turn in missions, use the TOP button, !.\nTo see kill missions, use the SKULL icon.\nTo see tame missions, use the DINO FOOTPRINT icon.\nTo access coin transfer menu, press the GOLD COIN.\nTo view the shop, use the HOME button.\nTo view the exchange, use the SCROLL/PARCHMENT button.\nWhen done in any screen click out to exit, do not hit ESC! If you hit ESC and the menu is stuck on screen, tab out of game such as opening Windows start menu as an example, then select Resume from the ESC menu.\n\n<TextStyle.Blue>Shop and Gold Coins</>\nEvery 30 minutes you are logged in to the server you will receive 25 gold coins. You can also receive coins from completing missions. These coins can be spent in the shop or exchange, or given to other players.",
           "imageurl": "https://i.imgur.com/1IV6HED.png"
                 }
             }
